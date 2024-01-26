@@ -12,7 +12,8 @@ This code was run in Python 3.11.5 in a conda environment.
 
 ## Usage
 
-To run this program you need to run main.py in a Python environment, and have an excel spreadsheet with a list of names.\<br>
+To run this program you need to run main.py in a Python environment, and have an excel spreadsheet with a list of names.
+
 Many variables/paramenters have a default value assigned to them, which will allow this program to be run with minimal input.\<br>
 However, in the future I plan to add more functionality and ability to change these values, without the user having to edit the code themselves.\<br>
 For the moment here is a list of the variables with default values:\<br>
